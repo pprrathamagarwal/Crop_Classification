@@ -1,5 +1,7 @@
 Agrifield -> Agrifield Data
+
 India_Districts -> Indian Districts Boundary used for filtering Kaernataka Dataset
+
 Karnataka Complete Data 5 Day -> Contains NDVI values at a 5 Day Interval, Merged Contains the NDVI + VV, VH data, the NDVI folder is used to remove duplicate NDVI entries, 
                                 Normalise folder contains the Normalization Method Data that I was working on next. SAR contains the SAR data for the points.
 
