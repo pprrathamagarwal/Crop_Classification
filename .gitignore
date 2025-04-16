@@ -1,4 +1,8 @@
+*.ipynb_checkpoints/
 *.csv
-*.CSV
-.ipynb_checkpoints/
+*.png
+*.shp
+*.shx
+*.dbf
+*.xml
 
