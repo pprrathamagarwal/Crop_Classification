@@ -13,4 +13,5 @@
 */*.dbf
 */*.xml
 */*.xlsx
-
+./.ipynb_checkpoints
+Karnataka_Datasets/
