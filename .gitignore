@@ -5,4 +5,12 @@
 *.shx
 *.dbf
 *.xml
+*.xlsx
+*/*.csv
+*/*.png
+*/*.shp
+*/*.shx
+*/*.dbf
+*/*.xml
+*/*.xlsx
 
